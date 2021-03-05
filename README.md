@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ye-russell.io/rsschool-cv/cv
