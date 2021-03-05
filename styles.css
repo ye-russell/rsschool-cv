@@ -1,0 +1,59 @@
+.summary {
+    margin: auto;
+    width: 80%;
+    line-height: 1.5;
+  
+  }
+  
+  .skills {
+    margin: auto;
+    width: 50%;
+    line-height: 2;
+    text-align: left;
+  }
+  
+  .code-example {
+    margin: auto;
+    width: 80%;
+    line-height: 2;
+    text-align: left;
+  }
+  
+  .ex-ed {
+    margin: auto;
+    width: 80%;
+    line-height: 2;
+    text-align: left;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Merriweather", sans-serif;
+    color: #40514e;
+    text-align: center;
+  
+  }
+  
+  header {
+    padding-top: 25px;
+    padding-bottom: 5px;
+    background-color: #eaf6f6;
+  }
+  
+  main {
+    margin: auto;
+    width: 60%;
+  }
+  
+  footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #66bfbf;
+    color: #eaf6f6;
+  }
+  
+  h2 {
+    color: #3e8b8b;
+    text-align: center;
+  }
+  
