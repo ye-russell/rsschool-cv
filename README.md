@@ -1,1 +1,1 @@
-https://ye-russell.io/rsschool-cv/cv
+https://ye-russell.io/rsschool-cv/
