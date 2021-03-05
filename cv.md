@@ -13,6 +13,18 @@
    - Other skills: Java (base), Ruby (base), customer service, team player, time management, adaptibility, learning, responsibility, planning.
 5. ### Code examples:
 
+```javascript
+function factorial(n) {
+  if (n >= 0 && n <= 12) {
+    if (n == 0) return 1;
+    var nFactorial = factorial(n - 1) * n;
+    return nFactorial;
+  } else {
+    throw new RangeError();
+  }
+}
+```
+
 6. ### Experience:
    - Dec 2020 - current: Self-studying student;
    - Sep 2020 - Dec 2020: Project Manager at Satbayev University;
