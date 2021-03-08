@@ -95,13 +95,9 @@
         <details>
           <summary>Code example</summary>
           <pre><code>        function factorial(n) {
-              if (n >= 0 && n <= 12) {
-                if (n == 0) return 1;
-                var nFactorial = factorial (n - 1) * n;
-                return nFactorial
-              } else {
-                throw new RangeError();
-              }
+             if (n == 0) return 1;
+              var nFactorial = factorial (n - 1) * n;
+              return nFactorial;
             }</code></pre>
         </details>
       </div>
