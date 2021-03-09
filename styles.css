@@ -1,0 +1,85 @@
+.summary {
+    margin: auto;
+    padding-bottom: 10px;
+    width: 80%;
+    line-height: 1.5;
+
+  }
+
+  .skills {
+    margin: auto;
+    padding-bottom: 10px;
+    width: 50%;
+    line-height: 2;
+    text-align: left;
+  }
+
+  .code-example {
+    margin: auto;
+    padding-bottom: 10px;
+    width: 80%;
+    line-height: 2;
+  }
+
+  .ex-ed {
+    margin: auto;
+    width: 80%;
+    padding-bottom: 10px;
+    line-height: 2;
+    text-align: left;
+  }
+  .contacts {
+    display: inline;
+  }
+
+  #contacts-header {
+    color: white;
+  }
+
+  body {
+    margin: 0;
+    font-family: "Merriweather", sans-serif;
+    background-color: #fafeff;
+    background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    color: #40514e;
+    text-align: center;
+
+  }
+
+  header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #abcfcf;
+  }
+
+  main {
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 60%;
+  }
+
+  footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #66bfbf;
+    color: #eaf6f6;
+  }
+
+  h2 {
+    color: #3e8b8b;
+    text-align: center;
+  }
+
+  h4 {
+    color: #bb8c35;
+    text-align: center;
+  }
+  pre {
+    text-align: left;
+  }
+
+  li {
+    list-style-type: none;
+  }
